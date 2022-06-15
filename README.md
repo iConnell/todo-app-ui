@@ -1,4 +1,6 @@
-# auth-app
+# todo-app-ui
+
+### [Backend](https://github.com/iConnell/todo_app)
 
 ## Project setup
 ```
